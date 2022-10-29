@@ -1,0 +1,8 @@
+[package]
+name = "docklett"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+gtk = "0.14.3"
+home = "0.5.3"
